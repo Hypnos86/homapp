@@ -1,0 +1,8 @@
+Instalacja Flask
+
+pip install flask
+python -m flask --version
+
+Instalacja ORM
+pip install flask-sqlalchemy
+
